@@ -1,6 +1,6 @@
 // pages/EnhancedChat.jsx
 import React, { useState, useEffect, useRef } from 'react';
-import Sidebar from '../components/Sidebar';
+import Sidebar from '../components/SideBar';
 import EnhancedMessageList from '../components/EnhancedMessageList';
 import ParticipantPopup from '../components/ParticipantPopup';
 import { FaBars, FaUsers, FaPaperclip, FaPaperPlane } from 'react-icons/fa';

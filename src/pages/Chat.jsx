@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Sidebar from '../components/Sidebar';
+import Sidebar from '../components/SideBar';
 import ChatRoom from '../components/ChatRoom';
 import { FaBars } from 'react-icons/fa';
 
