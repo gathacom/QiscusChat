@@ -150,3 +150,24 @@ Extend the provided JSON format to include messages with **images**, **videos**,
     }
   ]
 }
+
+## **Task 5: Develop the Chat Page Interface to Display Messages with Images, Videos, or PDFs**
+
+### **Objective**
+Enhance the chat interface to display messages containing **images**, **videos**, or **PDFs** using the extended JSON format.
+
+### **Features**
+1. **Message Types**:
+   - **Text**: Displayed as plain text.
+   - **Image**: Displayed with an optional caption.
+   - **Video**: Displayed with a thumbnail and controls.
+   - **PDF**: Displayed as a downloadable link.
+2. **Responsive Design**:
+   - Works seamlessly on both desktop and mobile devices.
+3. **Scrollable Message List**:
+   - The message list is scrollable, with the newest messages visible first and the oldest messages hidden at the top.
+
+### **Technologies Used**
+- **React.js**: For building the user interface.
+- **Tailwind CSS**: For styling and responsive design.
+- **React Icons**: For icons like send, participants, and menu.
