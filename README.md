@@ -150,6 +150,7 @@ Extend the provided JSON format to include messages with **images**, **videos**,
     }
   ]
 }
+```
 
 ## **Task 5: Develop the Chat Page Interface to Display Messages with Images, Videos, or PDFs**
 
